@@ -13,6 +13,6 @@ public class Simple_Intrest {
         int t = in.nextInt();
         System.out.print("Enter the rate of interest: ");
         int r = in.nextInt();
-        System.out.println("Simple Interest is " + (p * t * r) / 100);
+        System.out.println("Simple Interest is :" + (p * t * r) / 100);
     }
 }
