@@ -36,5 +36,25 @@ for(i=1; i<=10 ; i++){
 5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
 
 /*
-
+num1 = input();
+num2 = input();
+op = input();
+if op == "+"{
+    print(num1+num2);
+}
+if op == "-"{
+    print(num1-num2);
+}
+if op == "*"{
+    print(num1*num2);
+}
+if op == "/"{
+    print(num1/num2);
+}
+else if(op == "x" || "X") {
+    break;
+}
+else{
+    print("Invalid input");
+}
 */
