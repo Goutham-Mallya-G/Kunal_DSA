@@ -10,12 +10,16 @@ public class Fibonacci_Series {
         System.out.print("Enter the index of fibonacci : ");
         int n = in.nextInt();
         int index = n;
-        while(n-2>0){
-            int temp = b;
-            b = a+b;
-            a = temp;
-            n--;
+        if(n<1){
+            System.out.println(0);
+        }else {
+            while (n - 2 > 0) {
+                int temp = b;
+                b = a + b;
+                a = temp;
+                n--;
+            }
+            System.out.println(index + "th fibonacci number is : " + b);
         }
-        System.out.println(index + "th fibonacci number is : " + b);
     }
 }
