@@ -1,35 +1,35 @@
 # Progress Tracker
 
 ## DSA
-- [ ] Complete Git & GitHub Course
-- [ ] Introduction to Programming
-  - - [ ] Types of languages
-  - - [ ] Memory management
-- [ ] Flow of the program
-  - - [ ] Flowcharts 
-  - - [ ] Pseudocode
-- [ ] Introduction to Java
-  - - [ ] Introduction
-  - - [ ] How it works
-  - - [ ] Setup Installation
-  - - [ ] Input and Output in Java
-  - - [ ] Conditionals & Loops in Java
-    - - [ ] if else
-    - - [ ] loops
-    - - [ ] Switch statements
-  - - [ ] Data types
-  - - [ ] Coding best practices
-- [ ] Functions
-  - - [ ] Introduction
-  - - [ ] Scoping in Java
-  - - [ ] Shadowing 
-  - - [ ] Variable Length Arguments
-  - - [ ] Overloading
+- [x] Complete Git & GitHub Course
+- [x] Introduction to Programming
+  - - [x] Types of languages
+  - - [x] Memory management
+- [x] Flow of the program
+  - - [x] Flowcharts 
+  - - [x] Pseudocode
+- [x] Introduction to Java
+  - - [x] Introduction
+  - - [x] How it works
+  - - [x] Setup Installation
+  - - [x] Input and Output in Java
+  - - [x] Conditionals & Loops in Java
+    - - [x] if else
+    - - [x] loops
+    - - [x] Switch statements
+  - - [x] Data types
+  - - [x] Coding best practices
+- [x] Functions
+  - - [x] Introduction
+  - - [x] Scoping in Java
+  - - [x] Shadowing 
+  - - [x] Variable Length Arguments
+  - - [x] Overloading
 - [ ] Arrays
-  - - [ ] Introduction 
-  - - [ ] Memory management 
-  - - [ ] Input and Output
-  - - [ ] ArrayList Introduction
+  - - [x] Introduction 
+  - - [x] Memory management 
+  - - [x] Input and Output
+  - - [x] ArrayList Introduction
   - - [ ] Sorting 
     - - [ ] Insertion Sort
     - - [ ] Selection Sort
