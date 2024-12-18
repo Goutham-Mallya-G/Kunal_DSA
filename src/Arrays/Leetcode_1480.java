@@ -11,9 +11,6 @@ public class Leetcode_1480 {
             if(i>0) {
                 nums[i] = nums[i - 1] + nums[i];
             }
-//            }else {
-//                nums[i]=nums[i];
-//            }
         }
         System.out.println(Arrays.toString(nums));
     }
