@@ -36,7 +36,7 @@
     - - [ ] Bubble Sort
     - - [ ] Cyclic Sort (Merge sort etc after recursion)
   - [ ] Searching 
-    - - [ ] Linear Search
+    - - [x] Linear Search
     - - [ ] Binary Search
     - - [ ] Modified Binary Search
     - - [ ] Binary Search Interview questions
