@@ -1,8 +1,8 @@
 # Easy
 - [x] Build Array from Permutation  
-- [ ] Concatenation of Array  
-- [ ] Running Sum of 1d Array  
-- [ ] Richest Customer Wealth  
+- [x] Concatenation of Array  
+- [x] Running Sum of 1d Array  
+- [x] Richest Customer Wealth  
 - [ ] Shuffle the Array  
 - [ ] Kids With the Greatest Number of Candies  
 - [ ] Number of Good Pairs  
