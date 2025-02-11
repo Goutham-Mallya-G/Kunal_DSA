@@ -3,14 +3,14 @@
 - [x] Concatenation of Array  
 - [x] Running Sum of 1d Array  
 - [x] Richest Customer Wealth  
-- [ ] Shuffle the Array  
-- [ ] Kids With the Greatest Number of Candies  
-- [ ] Number of Good Pairs  
-- [ ] How Many Numbers Are Smaller Than the Current Number  
-- [ ] Create Target Array in the Given Order  
+- [x] Shuffle the Array  
+- [x] Kids With the Greatest Number of Candies  
+- [x] Number of Good Pairs  
+- [x] How Many Numbers Are Smaller Than the Current Number  
+- [x] Create Target Array in the Given Order  
 - [ ] Check if the Sentence Is Pangram  
-- [ ] Count Items Matching a Rule  
-- [ ] Find the Highest Altitude  
+- [x] Count Items Matching a Rule  
+- [x] Find the Highest Altitude  
 - [ ] Flipping an Image  
 - [ ] Cells with Odd Values in a Matrix  
 - [ ] Matrix Diagonal Sum  
